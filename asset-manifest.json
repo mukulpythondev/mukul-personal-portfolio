@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f401b6aa.css",
+    "main.js": "/static/js/main.851d1096.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/sidcupgolf.png": "/static/media/sidcupgolf.43ad059b071e13723bae.png",
+    "static/media/magmaclone.png": "/static/media/magmaclone.d17df87aefcfaba9f9ce.png",
+    "static/media/newspath.png": "/static/media/newspath.85a1d212e3050a0558c0.png",
+    "static/media/todolist.png": "/static/media/todolist.f97c23b81b64e741490a.png",
+    "static/media/passwordgenerator.png": "/static/media/passwordgenerator.b65dfda6f1078ba17a9e.png",
+    "static/media/applevison.png": "/static/media/applevison.d9b2059ef0a2d542bce5.png",
+    "static/media/coder.jpg": "/static/media/coder.3f4e03aac7880c185fe2.jpg",
+    "static/media/express.png": "/static/media/express.722052ae2acee8e7ce69.png",
+    "static/media/about.avif": "/static/media/about.b2ff2831bba626d31903.avif",
+    "static/media/react.svg": "/static/media/react.2b6a071759fcdac074f4dcad26eef347.svg",
+    "static/media/favicon.ico": "/static/media/favicon.4fe75d5f9adb18067b85.ico",
+    "static/media/metalogo.svg": "/static/media/metalogo.b9529a87e3b6b49eeaf873fb170e8b34.svg",
+    "static/media/nodejs.svg": "/static/media/nodejs.615ffbea9529ca7047ed8a912bfd94b2.svg",
+    "static/media/mongodb.svg": "/static/media/mongodb.6c6da70249bd055e32474d63755dd3db.svg",
+    "static/media/python.svg": "/static/media/python.cf32ad96e2819085c41578fb9989a766.svg",
+    "index.html": "/index.html",
+    "static/media/javascript.svg": "/static/media/javascript.e9360603cdd412c8f9acb925313bc3f3.svg",
+    "static/media/css.svg": "/static/media/css.43b6f4bdbc0f36b9f2dd15c6ebbcea15.svg",
+    "static/media/html.svg": "/static/media/html.6a342d61e4fe710cf3e5c05b65b0ac87.svg",
+    "main.f401b6aa.css.map": "/static/css/main.f401b6aa.css.map",
+    "main.851d1096.js.map": "/static/js/main.851d1096.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f401b6aa.css",
+    "static/js/main.851d1096.js"
+  ]
+}
